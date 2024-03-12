@@ -1,0 +1,5 @@
+repeat wait() until game:IsLoaded()
+wait(2)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SukunaJohnt/AUTOPLACECHALL2/main/C"))()
+wait(1)
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/SukunaJohnt/AutoRePLAY/main/Universal"))()
